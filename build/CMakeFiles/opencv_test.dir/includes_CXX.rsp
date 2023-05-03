@@ -1,0 +1,1 @@
+-IE:/CodeProject/cmake_test/include -isystem E:/opencv/build/include -isystem "E:/boostLibrary/include/boost-1_82"
